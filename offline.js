@@ -1,0 +1,30 @@
+﻿{
+	"version": 1490717592,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-2.1.1.min.js",
+		"images/tilemap.png",
+		"images/tilemap2.png",
+		"images/tilemap3.png",
+		"images/tilemap4.png",
+		"images/tilemap5.png",
+		"images/tilemap6.png",
+		"images/tilemap8.png",
+		"images/tilemap9.png",
+		"images/tilemap10.png",
+		"images/tilemap11.png",
+		"images/tilemap12.png",
+		"images/sprite-sheet0.png",
+		"images/sprite2-sheet0.png",
+		"images/sprite2-sheet1.png",
+		"images/tiledbackground.png",
+		"images/spritefont.png",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
